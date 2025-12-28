@@ -1,0 +1,9 @@
+/*
+Mais específico
+ - style
+  - !important
+*/
+
+.class {
+  font-size: 25px !important; 
+}
