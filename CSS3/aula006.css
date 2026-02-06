@@ -1,0 +1,15 @@
+/* 
+Combinator 
+- Descendent
+    article p
+- List
+    Span, mark
+- Next sibling
+    h2 + p
+- Child
+    aside > ul
+*/
+
+p {
+    color: red;
+}
