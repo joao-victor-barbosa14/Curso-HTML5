@@ -1,0 +1,13 @@
+div {
+    border: 2px solid red;
+    border-right-color: green;
+    border-left-color: green;
+    margin: 10px;
+}
+
+span {
+    border: 2px solid blue;
+    border-left-color: red;
+    border-right-color: red;
+    margin: 10px;
+}
