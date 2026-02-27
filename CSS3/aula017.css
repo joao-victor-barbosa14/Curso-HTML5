@@ -1,0 +1,12 @@
+p {
+    text-transform: uppercase;
+    color: blue;
+}
+
+mark {
+    color: red;
+}
+
+a {
+    text-decoration: none;
+}
